@@ -1,5 +1,6 @@
 clear all;
 close all;
+% Author: Pak Lim
 % Last modified: 8/15/2008 1:--pm
 % This program is written to compute the Fourier Transform of a function.
 % Set parameters.
